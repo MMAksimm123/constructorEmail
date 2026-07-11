@@ -35,7 +35,7 @@ Create emails, add text blocks, images, buttons, columns and separators — all 
 ## 🚀 Installation and launch
 
 1. Clone the repository:
-`bashё
+`bash`
 `git clone https://github.com/your-username/email-builder.git`
 `cd email-builder`
 
