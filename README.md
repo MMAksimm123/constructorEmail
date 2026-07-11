@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # constructor-email
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,3 +41,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# constructorEmail
+Email Builder is an email newsletter creation tool. It is a pet project that allows users to design email layouts using a drag-and-drop editor. The project is built with Vue 3 and TypeScript, uses plain CSS, and requires no backend.
+>>>>>>> 4447a5269ee3f028513e299745e3cce28b1a8bd9
