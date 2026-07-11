@@ -35,14 +35,14 @@ Create emails, add text blocks, images, buttons, columns and separators — all 
 ## 🚀 Installation and launch
 
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/email-builder.git
-cd email-builder
+`bashё
+`git clone https://github.com/your-username/email-builder.git`
+`cd email-builder`
 
 2. Install the dependencies:
-```npm install
+`npm install`
 
 3. Start the development server:
-```npm run dev
+`npm run dev`
 
-4. Open the application in the browser at ```http://localhost:5173
+4. Open the application in the browser at `http://localhost:5173`
